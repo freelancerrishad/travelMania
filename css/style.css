@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+}
+.hero{
+    background-image: url(./images/bg.jpg);
+    background-color: rgba(19, 19, 19, 0.589);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.headerIndex{
+    padding-bottom: 350px;
+}
+.header h2{
+    padding-top: 150px;
+    font-size: 72px;
+}
+.header h3{
+    padding-bottom: 80px;
+}
+.sign_in{
+    padding-top: 150px;
+    padding-bottom: 380px;
+}
+.heroHomePage{
+    background-image: url(https://images.pexels.com/photos/12064737/pexels-photo-12064737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-color: rgba(19, 19, 19, 0.589);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.features{
+    padding: 15px 0px 80px 20px;
+}

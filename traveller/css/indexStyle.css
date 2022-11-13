@@ -1,0 +1,9 @@
+.header{
+    background-image: url(../../images/bg_index.jpg);
+    background-color: rgba(19, 19, 19, 0.589);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 950px;
+}
